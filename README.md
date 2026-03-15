@@ -25,13 +25,13 @@ If you want a different reset location, change the reset constants in [main.lua]
 
 ## Installation
 
-Install URL: not published yet.
+Install URL:
 
-This plugin is currently local-only, so there is no public Bolt install URL yet.
+`https://raw.githubusercontent.com/TadusPro/bolt-barrows/main/meta.json`
 
 ## Updating
 
-Once this plugin is published, this section should point to the plugin URL only.
+Use the same URL in Bolt's plugin menu to install or update the plugin.
 
 ## Notes
 
