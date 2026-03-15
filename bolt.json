@@ -1,0 +1,6 @@
+{
+  "name": "Barrows helper",
+  "version": "1.0",
+  "description": "Highlights Barrows dig spots",
+  "main": "main.lua"
+}
