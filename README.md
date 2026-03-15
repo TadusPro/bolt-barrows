@@ -38,3 +38,15 @@ Once this plugin is published, this section should point to the plugin URL only.
 - State is stored only in memory for the current session.
 - Tunnel detection depends on the Barrows prompt being visible on screen.
 - Marker colors and grave positions can be adjusted in [main.lua](c:/Users/Tadus/Desktop/bolt-barrows/main.lua).
+
+## Credits
+
+- The bundled `lib/` marker code is based on J3sven's Bolt markers demo: https://github.com/J3sven/bolt-markers-demo
+- The bundled `modules/bolt-conversationmodule/` code comes from the Bolt conversation module used by JasperSurmont's Bolt Quest Helper: https://codeberg.org/JasperSurmont/bolt-questhelper
+
+## License notes
+
+- `lib/` comes from a repository published under the MIT license.
+- `modules/bolt-conversationmodule/` includes GPL-3.0 licensed code.
+
+If you publish this repository, you should keep those upstream credits visible and make sure your repository license is compatible with the shipped GPL-3.0 module.
